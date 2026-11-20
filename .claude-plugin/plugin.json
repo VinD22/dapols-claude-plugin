@@ -1,0 +1,16 @@
+{
+  "name": "dapols",
+  "displayName": "Dapols",
+  "version": "1.0.0",
+  "description": "Dapols for Claude: browse the Design Library (60+ web designs, each made from one AI prompt), look up dated AI tool prices and models, and, for Dapols plan owners, work through your plan's tasks, documents and drafts.",
+  "author": { "name": "Dapols", "url": "https://www.dapols.com" },
+  "homepage": "https://www.dapols.com/connect-your-ai",
+  "repository": "https://github.com/VinD22/dapols-claude-plugin",
+  "license": "MIT",
+  "keywords": ["small-business", "web-design", "prompts", "ai-tools", "mcp"],
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.dapols.com/connect-your-ai",
+  "supportUrl": "https://www.dapols.com/contact",
+  "privacyPolicyUrl": "https://www.dapols.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.dapols.com/terms-of-service"
+}

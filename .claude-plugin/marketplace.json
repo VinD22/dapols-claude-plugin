@@ -1,0 +1,12 @@
+{
+  "name": "dapols",
+  "description": "The Dapols plugin for Claude Code.",
+  "owner": { "name": "Dapols", "url": "https://www.dapols.com" },
+  "plugins": [
+    {
+      "name": "dapols",
+      "source": "./",
+      "description": "Design Library prompts, dated AI tool prices, and your Dapols plan inside Claude."
+    }
+  ]
+}

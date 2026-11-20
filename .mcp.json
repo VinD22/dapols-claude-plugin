@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dapols": {
+      "type": "http",
+      "url": "https://www.dapols.com/api/mcp"
+    },
+    "dapols-business": {
+      "type": "http",
+      "url": "https://www.dapols.com/api/mcp/me"
+    }
+  }
+}
