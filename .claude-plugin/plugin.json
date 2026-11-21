@@ -1,8 +1,8 @@
 {
   "name": "dapols",
   "displayName": "Dapols",
-  "version": "1.0.0",
-  "description": "Dapols for Claude: browse the Design Library (60+ web designs, each made from one AI prompt), look up dated AI tool prices and models, and, for Dapols plan owners, work through your plan's tasks, documents and drafts.",
+  "version": "1.1.0",
+  "description": "Dapols for Claude: browse the Design Library (60+ web designs, each made from one AI prompt), look up dated AI tool prices and models, find free agent skills for your kind of business, and, for Dapols plan owners, run the AI Marketing Kit and work through your plan's tasks, documents and drafts.",
   "author": { "name": "Dapols", "url": "https://www.dapols.com" },
   "homepage": "https://www.dapols.com/connect-your-ai",
   "repository": "https://github.com/VinD22/dapols-claude-plugin",
