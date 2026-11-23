@@ -9,7 +9,7 @@ This plugin connects Claude Code to Dapols' two MCP servers:
 | `dapols` | `https://www.dapols.com/api/mcp` | None | Browse the Design Library, look up AI tools with dated prices, compare models, list plans and prompts. Read-only. |
 | `dapols-business` | `https://www.dapols.com/api/mcp/me` | Your Dapols account (OAuth) | Read your plan, tasks, documents and updates; get Design Library prompts (included with every plan); save notes and drafts. Nothing is sent, posted or published. |
 
-It also adds three skills: `/dapols:design-library`, `/dapols:run-my-business` and `/dapols:choose-ai-tools`.
+It also adds five skills: `/dapols:design-library`, `/dapols:run-my-business`, `/dapols:choose-ai-tools`, `/dapols:marketing-kit` and `/dapols:find-skills`.
 
 ## Install
 
@@ -23,6 +23,8 @@ The first time a `dapols-business` tool runs, Claude opens a browser so you can 
 Using Claude on the web or desktop instead? The public connector is in the [Claude directory](https://claude.ai/directory/connectors/dapols): add it from there in one click. Or add `https://www.dapols.com/api/mcp` (and `https://www.dapols.com/api/mcp/me` for your account) as custom connectors. See [Connect your AI](https://www.dapols.com/connect-your-ai).
 
 ## Privacy and support
+
+Notes and drafts saved through `dapols-business` stay in your Dapols account until you delete them. Dapols keeps a log of what a connected app read or changed (counts and names, never your document text) for 90 days.
 
 - Privacy policy: https://www.dapols.com/privacy-policy
 - Terms: https://www.dapols.com/terms-of-service
