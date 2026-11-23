@@ -20,7 +20,7 @@ It also adds three skills: `/dapols:design-library`, `/dapols:run-my-business` a
 
 The first time a `dapols-business` tool runs, Claude opens a browser so you can sign in to Dapols and approve access. You can revoke it any time from your Dapols dashboard under Connect.
 
-Using Claude on the web or desktop instead? Add `https://www.dapols.com/api/mcp` (and `https://www.dapols.com/api/mcp/me` for your account) as custom connectors. See [Connect your AI](https://www.dapols.com/connect-your-ai).
+Using Claude on the web or desktop instead? The public connector is in the [Claude directory](https://claude.ai/directory/connectors/dapols): add it from there in one click. Or add `https://www.dapols.com/api/mcp` (and `https://www.dapols.com/api/mcp/me` for your account) as custom connectors. See [Connect your AI](https://www.dapols.com/connect-your-ai).
 
 ## Privacy and support
 
